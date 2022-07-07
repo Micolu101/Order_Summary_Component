@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="/images/DesktopView_OrderSummary.png" alt="DesktopView"  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/images/DesktopView_OrderSummary.png" alt="DesktopView"  style="display: inline-block; margin: 0 auto; max-width: 100px">
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![alt text](https://github.com/Micolu101/Order_Summary_Component/blob/images/DesktopView_OrderSummary?raw=true)
 [alt text](/images/DesktopView_OrderSummary.png)

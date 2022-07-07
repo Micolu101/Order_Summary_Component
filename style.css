@@ -111,6 +111,14 @@ h5 {
 .cancel:hover {
   color: hsl(223, 47%, 23%);
 }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 5%;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 
 /* Responsiveness for mobile phone  */
 @media screen and (max-width: 375px) {

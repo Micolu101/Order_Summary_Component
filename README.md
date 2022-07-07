@@ -28,25 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="/images/DesktopView_OrderSummary.png" alt="DesktopView"  style="width: 200px; height:200px">
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/Micolu101/Order_Summary_Component/blob/images/DesktopView_OrderSummary?raw=true)
-[alt text](/images/DesktopView_OrderSummary.png)
-[./images/MobileView_OrderSummary.png]
-[./images/Active_OrderSummary]
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<img src="/images/DesktopView_OrderSummary.png" alt="DesktopView"  style="width: 300px; height:300px">
+<img src="/images/MobileView_OrderSummary.png" alt="MobileView"  style="width: 300px; height:300px">
+<img src="/images/Active_OrderSummary.png" alt="Active"  style="width: 300px; height:300px">
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://github.com/Micolu101/Order_Summary_Component.git])
-- Live Site URL: [Add live site URL here]([https://micolu101.github.io/Order_Summary_Component/])
+- Solution URL: [https://github.com/Micolu101/Order_Summary_Component.git]
+- Live Site URL: [https://micolu101.github.io/Order_Summary_Component/]
 
 ## My process
 

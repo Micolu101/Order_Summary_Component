@@ -28,6 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([./images/DesktopView_OrderSummary])
 [./images/DesktopView_OrderSummary]
 [./images/MobileView_OrderSummary]
 [./images/Active_OrderSummary]
